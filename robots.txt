@@ -1,4 +1,5 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://raw.githubusercontent.com/fedobitco86/cryptodonatenow-sitemap/refs/heads/main/sitemap.xml
+Sitemap: https://fedobitco86.github.io/cryptodonatenow-sitemap/sitemap.xml
+
