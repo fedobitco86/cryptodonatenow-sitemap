@@ -6,7 +6,8 @@ Sitemap: https://sitemap.cryptodonatenow.org/sitemap-de.xml
 Sitemap: https://sitemap.cryptodonatenow.org/sitemap-fr.xml
 Sitemap: https://sitemap.cryptodonatenow.org/sitemap-nl.xml
 Sitemap: https://sitemap.cryptodonatenow.org/sitemap-ar.xml
-Sitemap: https://sitemap.cryptodonatenow.org/sitemap-ja.xml
+Sitemap: https://sitemap.cryptodonatenow.org/sitemap-jp.xml
+
 
 
 
