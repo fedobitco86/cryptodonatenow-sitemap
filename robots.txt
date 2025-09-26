@@ -1,12 +1,14 @@
 User-agent: *
 Disallow:
 
-https://fedobitco86.github.io/cryptodonatenow-sitemap/sitemap.xml
+Sitemap: https://sitemap.cryptodonatenow.org/sitemap.xml
 Sitemap: https://sitemap.cryptodonatenow.org/sitemap-de.xml
 Sitemap: https://sitemap.cryptodonatenow.org/sitemap-fr.xml
 Sitemap: https://sitemap.cryptodonatenow.org/sitemap-nl.xml
 Sitemap: https://sitemap.cryptodonatenow.org/sitemap-ar.xml
 Sitemap: https://sitemap.cryptodonatenow.org/sitemap-ja.xml
+
+
 
 
 
