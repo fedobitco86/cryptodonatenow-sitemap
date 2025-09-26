@@ -1,5 +1,6 @@
 xml
 <?xml version="1.0" encoding="UTF-8"?>
+xml
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cryptodonatenow.org/</loc>
@@ -217,4 +218,5 @@ xml
     <loc>https://fr.cryptodonatenow.org/#thank-you</loc>
     <priority>0.4</priority>
   </url>
+xml
 </urlset>
