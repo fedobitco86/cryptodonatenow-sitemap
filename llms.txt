@@ -1,0 +1,11 @@
+Site: cryptodonatenow.org  
+Title: Crypto Donate Now  
+Description: A humanitarian donation platform that enables people to support refugees, the homeless, and vulnerable communities through cryptocurrency donations.  
+Purpose: To simplify global crypto-based giving and deliver transparent, direct aid to those in need.  
+Languages: English, Arabic, Japanese, German  
+Cryptocurrencies Accepted: Bitcoin (BTC), Ethereum (ETH), Tether (USDT), Binance Coin (BNB)  
+Owner: [Your Name or Organization Name]  
+Launch Date: 2025  
+Region Focus: Global  
+Transparency: Public donation tracking and updates available  
+Contact: info@cryptodonatenow.org  
