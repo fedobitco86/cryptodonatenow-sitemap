@@ -1,0 +1,20 @@
+/* TEAM */
+Developer: Crypto Donate Now Team
+Designer: Crypto Donate Now Team
+Project: CryptoDonateNow.org
+Purpose: Empowering humanitarian aid through crypto donations
+Contact: support@cryptodonatenow.org
+Website: https://cryptodonatenow.org
+
+/* SITE */
+Last update: 2025/10/01
+Doctype: HTML5
+Standards: W3C Validated
+Language: English
+
+/* THANKS */
+Thanks to all our donors and supporters around the world!
+
+/* TECHNOLOGY */
+Platform: Carrd + GitHub Pages
+Hosting: GitHub
